@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/night", "destination": "https://nlcssingapore.fireflycloud.asia/departments/computer-science/trips-and-events/maker-week" },
+    { "source": "/night", "destination": "https://docs.google.com/forms/d/e/1FAIpQLSfs5SHCPmz-Al0p_u6tg5OoSY0K0dqiS7XH_28sY8lUYPf6UQ/viewform" },
     { "source": "/disco", "destination": "https://replit.com/@sampoder/maker-week-disco-starter" }
   ]
 }
